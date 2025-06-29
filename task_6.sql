@@ -1,3 +1,6 @@
+-- Use the alx_book_store database
+USE alx_book_store;
+
 -- Insert multiple customers
 INSERT INTO customer (customer_id, customer_name, email, address)
 VALUES
