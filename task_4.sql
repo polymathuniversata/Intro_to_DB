@@ -2,4 +2,4 @@
 USE alx_book_store;
 
 -- Print full description of books table without using DESCRIBE or EXPLAIN
-SHOW COLUMNS FROM books;
+SHOW COLUMNS FROM Books;
